@@ -145,4 +145,4 @@ select * from item;
 select * from order_item;
 
 commit;
-Query OK, 0 rows affected (0.000 sec)
+Query OK, 0 rows affected (0.000 sec)  
